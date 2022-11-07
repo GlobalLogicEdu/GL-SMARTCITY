@@ -21,7 +21,7 @@
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-less": "^3.3.0",
     "gulp-serve": "^1.4.0",
     "npm-check-updates": "^2.11.0",
